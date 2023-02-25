@@ -55,6 +55,9 @@
             background: url("https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fG9ubGluZSUyMCUyMHdvcmslMjAlMjB0ZWFjaGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60") no-repeat ;
             background-size: 1250px 650px;
         }
+        section { 
+            display:flex;
+            )
         
          
         footer { 
