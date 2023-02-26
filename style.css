@@ -163,7 +163,8 @@ h3 {
     .info_teacher img{ 
         width: 200px;
         height: 270px;
-        margin-left: 40px;
+        margin-left: 40px; 
+     border : 3px inset burlywood;
     }
     .container_serine{ 
         display: flex;
