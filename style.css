@@ -262,27 +262,18 @@ h3 {
             padding-left: 6px;
             padding-right: 6px;
         }
-          nav span:hover{ 
+          .nav span:hover{ 
             color:  #D2691E;
         } 
-         .nav2 { 
-            position: absolute ;
-              padding-right: 3px;
-        }
-         .nav2:hover{ 
-            color:  #D2691E;
-        } 
+         
+         
         nav { 
             position: relative ;
             left: 55px;
             top: 2px;
         }
-        .nav1 { 
-              position: absolute ;
-         }
-          .nav1:hover{ 
-            color:  #D2691E;
-        } 
+         
+       
        
    
 
