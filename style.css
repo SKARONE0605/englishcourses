@@ -269,6 +269,9 @@ h3 {
             position: absolute ;
               padding-right: 3px;
         }
+         .nav2:hover{ 
+            color:  #D2691E;
+        } 
         nav { 
             position: relative ;
             left: 55px;
@@ -276,9 +279,10 @@ h3 {
         }
         .nav1 { 
               position: absolute ;
-              left: 150px;
-        }
-        
+          .nav1:hover{ 
+            color:  #D2691E;
+        } 
+       
    
 
     
