@@ -262,6 +262,9 @@ h3 {
             padding-left: 6px;
             padding-right: 6px;
         }
+          nav span:hover{ 
+            color: chocolate;
+        } 
          .nav2 { 
             position: absolute ;
               padding-right: 3px;
